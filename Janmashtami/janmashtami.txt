@@ -1,8 +1,44 @@
 {
   "portrait":[
-    "https://raw.githubusercontent.com/"
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna1.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna2.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna3.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna4.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna5.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna6.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna7.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna8.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna9.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna10.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna11.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna12.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna13.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna14.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna15.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna16.png"
     ],
+    
   "landscape":[
-     "https://raw.githubusercontent.com/"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay1.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay2.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay3.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay4.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay5.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay6.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay7.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay8.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay9.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay10.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay11.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay12.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay13.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay14.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay15.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay16.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay17.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay18.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay19.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay20.png"
+     
     ]
 }
