@@ -15,7 +15,17 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna13.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna14.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna15.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna16.png"
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna16.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait2/bg2.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait2/bg3.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait2/bg4.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait2/bg5.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait2/bg6.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait2/bg7.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait2/bg8.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait2/bg9.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait2/bg10.png"
+    
     ],
     
   "landscape":[
