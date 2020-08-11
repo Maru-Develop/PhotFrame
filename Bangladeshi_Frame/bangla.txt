@@ -34,9 +34,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_11.png",
       "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_05.png",
      
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_04.png",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_06.png",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_08.png"
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_04.png"
   
   
     ],
