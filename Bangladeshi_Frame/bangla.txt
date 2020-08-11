@@ -16,23 +16,23 @@
   
     ],
   "landscape":[
-     "https://github.com/Maruf-Developer/PhotFrame/blob/master/Bangladeshi_Frame/landscape/frame1.png",
-     "https://github.com/Maruf-Developer/PhotFrame/blob/master/Bangladeshi_Frame/landscape/frame2.png",
-     "https://github.com/Maruf-Developer/PhotFrame/blob/master/Bangladeshi_Frame/landscape/frame3.png",
-     "https://github.com/Maruf-Developer/PhotFrame/blob/master/Bangladeshi_Frame/landscape/frame4.png",
-     "https://github.com/Maruf-Developer/PhotFrame/blob/master/Bangladeshi_Frame/landscape/frame5.png",
-     "https://github.com/Maruf-Developer/PhotFrame/blob/master/Bangladeshi_Frame/landscape/frame6.png",
-     "https://github.com/Maruf-Developer/PhotFrame/blob/master/Bangladeshi_Frame/landscape/frame7.png",
-     "https://github.com/Maruf-Developer/PhotFrame/blob/master/Bangladeshi_Frame/landscape/frame8.png",
-     "https://github.com/Maruf-Developer/PhotFrame/blob/master/Bangladeshi_Frame/landscape/frame9.png",
-     "https://github.com/Maruf-Developer/PhotFrame/blob/master/Bangladeshi_Frame/landscape/frame10.png",
-      "https://github.com/Maruf-Developer/PhotFrame/blob/master/Bangladeshi_Frame/landscape/frame11.png",
-     "https://github.com/Maruf-Developer/PhotFrame/blob/master/Bangladeshi_Frame/landscape/frame12.png",
-     "https://github.com/Maruf-Developer/PhotFrame/blob/master/Bangladeshi_Frame/landscape/frame13.png",
-     "https://github.com/Maruf-Developer/PhotFrame/blob/master/Bangladeshi_Frame/landscape/frame14.png",
-     "https://github.com/Maruf-Developer/PhotFrame/blob/master/Bangladeshi_Frame/landscape/frame15.png",
-     "https://github.com/Maruf-Developer/PhotFrame/blob/master/Bangladeshi_Frame/landscape/frame16.png",
-     "https://github.com/Maruf-Developer/PhotFrame/blob/master/Bangladeshi_Frame/landscape/frame17.png"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/landscape/frame1.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/landscape/frame2.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/landscape/frame3.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/landscape/frame4.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/landscape/frame5.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/landscape/frame6.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/landscape/frame7.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/landscape/frame8.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/landscape/frame9.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/landscape/frame10.png",
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/landscape/frame11.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/landscape/frame12.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/landscape/frame13.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/landscape/frame14.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/landscape/frame15.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/landscape/frame16.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/landscape/frame17.png"
      
     ]
 }
