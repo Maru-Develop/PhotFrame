@@ -1,17 +1,26 @@
 {
   "portrait":[
-  "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf01.webp",
-  "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf02.webp",
-   "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf03.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf04.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf05.webp",
-   "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf06.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf07.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf08.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf09.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf10.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf11.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf12.webp"
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_01.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_02.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_03.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_04.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_05.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_06.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_07.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_08.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_09.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_10.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_11.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_12.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_13.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_14.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_15.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_16.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_17.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_18.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_19.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_20.png"
+  
     ],
   "landscape":[
      "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf01.webp",
