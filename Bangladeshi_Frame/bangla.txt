@@ -26,7 +26,7 @@
   
   "https://i.postimg.cc/R0bc02Bn/potrait-9.png",
   "https://i.postimg.cc/QxrcVpRS/potrait-14.png", 
-  "https://i.postimg.cc/Vvw5sFdC/potrait-31.png"
+  "https://i.postimg.cc/Vvw5sFdC/potrait-31.png",
   "https://i.postimg.cc/c17r9PbM/potrait-33.png",
   
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/portrait/frames_2.webp",
@@ -56,7 +56,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram15.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram16.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram18.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram21.webp"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram21.webp",
      
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/landscape/fram2.webp",
      "https://i.postimg.cc/vBN6Qn57/4.png",
