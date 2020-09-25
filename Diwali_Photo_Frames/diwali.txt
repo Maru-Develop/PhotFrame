@@ -1,6 +1,23 @@
 {
   "portrait":[
-
+    
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (1).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (2).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (3).PNG",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (4).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (5).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (6).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (7).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (10).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (8).PNG",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (9).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (11).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (12).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (13).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (14).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (15).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (16).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (17).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (18).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (19).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (20).png",
@@ -8,10 +25,36 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/portrait/frame (22).png"
     ],
   "landscape":[
-
+  
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame (1).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame (2).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame (3).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame (4).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame (5).png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame (6).png"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame (6).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame (7).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame (8).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame (9).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame (10).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame (11).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame (12).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame (13).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame (14).png",
+     
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (1).webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (2).webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (19).webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (6).webp",
+
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (9).webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (10).webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (11).webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (12).webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (13).webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (15).webp",
+
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (17).webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (18).webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (20).webp"
     ]
 }
