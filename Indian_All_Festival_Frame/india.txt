@@ -8,11 +8,11 @@
   "Makar_Sankranti":[
     
      
-    ]
+    ],
   "Pongal":[
     
      
-    ]
+    ],
   "Maha_Shivratri":[
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame1.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame2.png",
@@ -26,7 +26,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame10.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame11.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame12.png" 
-    ]
+    ],
   "Holi":[
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_2.webp",
@@ -44,7 +44,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_14.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_15.webp"
      
-    ]
+    ],
   "Raksha_Bandhan":[
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame1.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame2.png",
@@ -65,7 +65,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame18.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame17.png"
      
-    ]
+    ],
   "Janmashtami":[
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay1.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay2.png",
@@ -86,7 +86,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay19.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay20.png"
      
-    ]
+    ],
   "Onam":[
     
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam1.png",
@@ -101,7 +101,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam10.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam11.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam12.png"
-    ]
+    ],
   "Ganesh_Chaturthi":[
     
       "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame003.PNG",
@@ -118,7 +118,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame_11.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame_12.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame_13.webp"
-    ]
+    ],
   "Navratri":[
     
       "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/landscape/frame (1).png",
@@ -141,7 +141,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/landscape/frame (18).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/landscape/frame (19).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/landscape/frame (20).png"
-    ]
+    ],
   "Diwali":[
     
       "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame (1).png",
@@ -162,7 +162,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (2).webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (19).webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (6).webp"
-    ]
+    ],
   "Mahavir_Jayanti":[
     
          "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Mahavir_Jayanti/landscape/mahavir1.png",
@@ -179,7 +179,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Mahavir_Jayanti/landscape/mahavir12.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Mahavir_Jayanti/landscape/mahavir13.PNG",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Mahavir_Jayanti/landscape/mahavir14.png"
-    ]
+    ],
   "Nag_Panchami":[
     
         "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/theme1.png",
@@ -204,7 +204,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/p8.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/p9.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/p10.png"
-    ]
+    ],
   "Guru_Purnima":[
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/theme1.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/theme2.png",
@@ -229,7 +229,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/frame9.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/landscape/frame10.png"
      
-    ]
+    ],
   "Ghudi_Padwa":[
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi1.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi2.png",
@@ -242,7 +242,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi9.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi10.png"
       
-    ]
+    ],
   "Dussera":[
          "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/landscape/blf1.webp",
      "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/landscape/blf2.webp",
@@ -257,7 +257,7 @@
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/landscape/lf5.webp",
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Dussera%20photo%20frames/landscape/lf6.webp"
      
-    ]
+    ],
   "Christmas":[
        "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf01.webp",
      "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf02.webp",
@@ -274,7 +274,7 @@
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf14.webp",
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf15.webp"
      
-    ]
+    ],
   "Gautam_Buddha":[
     
       "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/landscape/buddha1.png",
@@ -292,7 +292,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/landscape/buddha13.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/landscape/buddha14.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/landscape/buddha15.png"
-    ]
+    ],
   "Durga_Puja":[
     
       "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Durga_Puja_Frame/landscape/frame (1).png",
@@ -318,7 +318,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Durga_Puja_Frame/landscape/frame (21).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Durga_Puja_Frame/landscape/frame (22).png"
    
-    ]
+    ],
   "New_Year":[
     
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frame21.png",
@@ -365,7 +365,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frames_4.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frames_7.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frames_9.png"
-    ]
+    ],
   "Ram_Navami":[
        "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ram_Navami/landscape/f_1.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ram_Navami/landscape/f_2.png",
@@ -387,7 +387,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ram_Navami/landscape/f_18.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ram_Navami/landscape/f_19.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ram_Navami/landscape/f_20.png"  
-    ]
+    ],
   "Republic_Day":[
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_1.webp",
       "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_2.webp",
@@ -402,7 +402,7 @@
       "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_9.webp",
       "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_10.webp"
      
-    ]
+    ],
 	
   "Independence_Day":[
     
@@ -422,7 +422,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f29.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f30.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f31.png"
-    ]
+    ],
   "Valentine_Day":[
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f8.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f11.png",
