@@ -1,8 +1,19 @@
 {
   "portrait":[
-    "https://raw.githubusercontent.com/"
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti1.png"
     ],
   "landscape":[
-     "https://raw.githubusercontent.com/"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti1.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti2.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti3.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti4.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti5.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti6.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti7.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti8.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti9.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti10.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti11.png"
+     
     ]
 }
