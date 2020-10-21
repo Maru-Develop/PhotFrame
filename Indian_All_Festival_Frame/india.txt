@@ -7,11 +7,11 @@
    
   "Makar_Sankranti":[
     
-     
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame1.png"
     ],
   "Pongal":[
     
-     
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame1.png"
     ],
   "Maha_Shivratri":[
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame1.png",
