@@ -44,7 +44,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f2.png"
      
     ],
-       "landscape_letter1":[
+       "landscape1":[
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm17.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm18.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm19.webp",
@@ -60,7 +60,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm29.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm30.webp"
     ],
-      "landscape_letter2":[
+      "landscape2":[
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm17.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm18.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm19.webp",
@@ -76,7 +76,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm29.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm30.webp"
     ],
-      "landscape_letter3":[
+      "landscape3":[
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm17.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm18.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm19.webp",
@@ -92,7 +92,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm29.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm30.webp"
     ],
-      "landscape_letter4":[
+      "landscape4":[
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm17.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm18.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm19.webp",
@@ -108,7 +108,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm29.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm30.webp"
     ],
-      "landscape_letter5":[
+      "landscape5":[
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm17.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm18.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/landscape/frm19.webp",
