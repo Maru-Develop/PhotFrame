@@ -47,21 +47,13 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram21.webp"
      
     ],
-       "landscape1":[
+     "landscape1":[
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/landscape/fram2.webp",
     "https://i.postimg.cc/65Rzm6Nb/1.png",
     "https://i.postimg.cc/2SDTRpkk/3.png",
     "https://i.postimg.cc/vBN6Qn57/4.png",
     "https://i.postimg.cc/q7mG3z8q/10.png",
     "https://i.postimg.cc/B66K9pPQ/6.png",
-    "https://i.postimg.cc/65Rzm6Nb/1.png",
-    "https://i.postimg.cc/2SDTRpkk/3.png",
-    "https://i.postimg.cc/vBN6Qn57/4.png",
-    "https://i.postimg.cc/q7mG3z8q/10.png",
-    "https://i.postimg.cc/B66K9pPQ/6.png",
-    "https://i.postimg.cc/FFwDpdwJ/7.png",
-    "https://i.postimg.cc/DwP67C0q/8.png",
-    "https://i.postimg.cc/pdVZrD53/9.png",
     "https://i.postimg.cc/gjQFkJm8/nexa-1.png",
     "https://i.postimg.cc/2yqMJDh6/nexa-10.png",
     "https://i.postimg.cc/rsv32PN9/nexa-11.png",
@@ -69,9 +61,6 @@
     "https://i.postimg.cc/CMtW8Rpf/nexa-13.png",
     "https://i.postimg.cc/K8hw9CzG/nexa-14.png",
     "https://i.postimg.cc/NMFz9cN4/nexa-17.png",
-    "https://i.postimg.cc/qRFZ25Sd/nexa-18.png",
-    "https://i.postimg.cc/259fXTM0/nexa-27.png",
-    "https://i.postimg.cc/g0m901FS/nexa-3.png",
     "https://i.postimg.cc/52wdbbGQ/nexa-6.png"
     ],
       "landscape2":[
