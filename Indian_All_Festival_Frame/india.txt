@@ -6,7 +6,8 @@
    
    
   "Sankranti":[
-
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti1.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti2.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti3.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti4.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti5.png",
@@ -14,28 +15,35 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti7.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti8.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti9.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti10.png"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti10.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Makar_Sankranti_Frame/landscape/sankranti11.png"
     ],
-  "Pongal":[
     
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Pongal_Photo_Frame/landscape/pongal%20(1).png",
+  "Pongal":[
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Pongal_Photo_Frame/landscape/pongal%20(1).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Pongal_Photo_Frame/landscape/pongal%20(2).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Pongal_Photo_Frame/landscape/pongal%20(3).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Pongal_Photo_Frame/landscape/pongal%20(4).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Pongal_Photo_Frame/landscape/pongal%20(5).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Pongal_Photo_Frame/landscape/pongal%20(6).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Pongal_Photo_Frame/landscape/pongal%20(7).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Pongal_Photo_Frame/landscape/pongal%20(8).png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Pongal_Photo_Frame/landscape/pongal%20(9).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Pongal_Photo_Frame/landscape/pongal%20(10).png"
     ],
   "Shivratri":[
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame1.png",
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame1.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame2.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame3.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame4.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame5.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame6.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame7.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame8.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame9.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame10.png" 
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame10.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame11.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame12.png"
     ],
   "Holi":[
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_1.webp",
@@ -71,15 +79,18 @@
      
     ],
   "Onam":[
-    
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam1.png",
+       "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam1.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam2.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam3.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam4.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam5.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam6.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam7.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam8.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam10.png"
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam9.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam10.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam11.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam12.png"
     ],
   "Ganesh":[
     
