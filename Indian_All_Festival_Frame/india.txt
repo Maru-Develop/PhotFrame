@@ -251,11 +251,11 @@
 "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/landscape/frame-12.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/landscape/frame-10.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/landscape/frame-1.webp",
-"https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/landscape/frame-2.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/landscape%201/frame-1.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/landscape%201/frame-2.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/landscape%201/frame-3.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/landscape%201/frame-4.webp",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/landscape/frame-2.webp",
 "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Republic_Day_India/landscape%201/frame-14.webp"
      
     ],
