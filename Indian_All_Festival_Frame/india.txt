@@ -79,7 +79,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame14.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame15.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame16.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame18.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame18.png"
      
     ],
   "Janmashtami":[
