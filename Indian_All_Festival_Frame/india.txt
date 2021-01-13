@@ -46,14 +46,11 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame12.png"
     ],
   "Holi":[
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(1).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(2).webp",
+ 
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(8).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(3).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(4).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(5).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(6).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(7).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(8).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(9).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(10).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(11).webp",
@@ -65,9 +62,7 @@
    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(17).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(18).webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(19).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(20).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(21).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(22).webp"
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(21).webp"
    
     ],
   "Raksha":[
