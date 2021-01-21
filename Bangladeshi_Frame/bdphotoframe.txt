@@ -169,7 +169,6 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f2.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f3.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f4.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f6.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f8.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f9.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f10.png",
@@ -217,7 +216,8 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bangladeshi_Frame/flag/flag-16.webp" 
     ],
       "landscape6":[
-
+      
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f6.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/landscape_hindi/year_frame1.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/landscape/frame%20(5).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/NewYear_Photo_Frame/landsc/frame%20(3).png",
@@ -228,8 +228,6 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(2).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(3).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_2/frame_1.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(13).PNG",
-     "https://i.postimg.cc/bJ5GBJXB/lands17.png",
-     "https://i.postimg.cc/8ktphV7r/joy-bangla-26.png"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/landscape_1/frame%20(13).PNG"
      ]
   }
