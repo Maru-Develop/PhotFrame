@@ -72,33 +72,25 @@
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/EkusheFebPhotoFrame/square/frame-24.webp"
     ],
    
-   	"square2":[
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_2.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_3.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_4.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_5.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_6.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_7.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_8.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_9.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_10.webp",
-       "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march2.png",
+  "square2":[
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march2.png",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march1.png",
- 
    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march3.png",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march4.png",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march5.png",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march6.png",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march7.png",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march8.png",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march9.png",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march10.png",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march12.png",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march13.png",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march15.png",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march16.png",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march17.png"
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_1.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_2.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_3.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_4.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_5.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_6.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_7.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_8.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_9.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_10.webp"
 	],
    
   "landscape":[
