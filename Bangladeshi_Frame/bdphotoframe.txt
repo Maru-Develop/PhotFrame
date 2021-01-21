@@ -10,7 +10,12 @@
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_19.webp",
   "https://i.postimg.cc/c17r9PbM/potrait-33.png",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/portrait/frames_2.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_11.png"
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_11.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_04.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_06.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_10.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_14.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_17.png"
   
     ],
    "portrait1":[
@@ -27,9 +32,7 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame_4.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame%20(6).png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame%20(7).png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame%20(9).png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_04.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_Frame/Portrait/f1_14.png"
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/Christmas_Photo_Frame/portrait_2021/frame%20(9).png"
     ],
    
    "square":[
@@ -50,17 +53,7 @@
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/EkusheFebPhotoFrame/square/frame-12.webp"
    
     ],
-	
-	"square1":[
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/EkusheFebPhotoFrame/square/frame-18.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/EkusheFebPhotoFrame/square/frame-19.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/EkusheFebPhotoFrame/square/frame-20.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/EkusheFebPhotoFrame/square/frame-21.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/EkusheFebPhotoFrame/square/frame-22.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/EkusheFebPhotoFrame/square/frame-23.webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/EkusheFebPhotoFrame/square/frame-24.webp"
-	],
-   "square2":[
+   "square1":[
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/EkusheFebPhotoFrame/square/new-1.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/EkusheFebPhotoFrame/square/new-4.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/EkusheFebPhotoFrame/square/new-6.webp",
@@ -78,6 +71,35 @@
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/EkusheFebPhotoFrame/square/frame-23.webp",
    "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/EkusheFebPhotoFrame/square/frame-24.webp"
     ],
+   
+   	"square2":[
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_6.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_7.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_8.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_9.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Bijoy_Dibosh_2020/portrait/frames_10.webp",
+       "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march2.png",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march1.png",
+ 
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march3.png",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march4.png",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march5.png",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march6.png",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march7.png",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march8.png",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march9.png",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march10.png",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march12.png",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march13.png",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march15.png",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march16.png",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/square/march17.png"
+	],
    
   "landscape":[
   "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/EkusheFebPhotoFrame/land21/frame-1.webp",
