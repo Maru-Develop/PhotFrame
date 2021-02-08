@@ -46,23 +46,20 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Maha_Shivratri/landscape/frame12.png"
     ],
   "Holi":[
- 
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(8).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(3).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(6).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(7).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(9).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(10).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(11).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(12).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(13).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(14).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(15).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(16).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(17).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(18).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(19).webp",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/land/frame%20(21).webp"
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/landscape/landscape1/frame-1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/landscape/landscape1/frame-2.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/landscape/landscape1/frame-3.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/landscape/landscape1/frame-4.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/landscape/landscape1/frame-6.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/landscape/landscape1/frame-7.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/landscape/landscape1/frame-9.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/landscape/landscape1/frame-10.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/landscape/landscape1/frame-11.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/landscape/landscape1/frame-12.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/landscape/landscape1/frame-13.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/landscape/landscape1/frame-14.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/landscape/landscape2/frame-7.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotoFrame2021/main/HoliPhotoFrame/landscape/landscape2/frame-8.webp"
    
     ],
   "Raksha":[
@@ -84,13 +81,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay3.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay4.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay5.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay6.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay7.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay8.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay9.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay10.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay11.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay12.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay13.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay14.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay15.png",
@@ -121,11 +112,8 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame_14.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame004.PNG",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame_3.webp",
-
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame_5.webp",
-
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame_8.webp",
-
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame_10.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame_11.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame_12.webp",
@@ -140,11 +128,6 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/landscape/frame (11).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/landscape/frame (12).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/landscape/frame (13).png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/landscape/frame (14).png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/landscape/frame (15).png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/landscape/frame (16).png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/landscape/frame (17).png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/landscape/frame (18).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/landscape/frame (19).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/landscape/frame (20).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Navratri_Photo_Frame/landscape/frame (27).png",
@@ -165,16 +148,8 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame (12).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame (13).png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame (14).png",
-     
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (1).webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (2).webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (19).webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (6).webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (15).webp",
-
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (17).webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (18).webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (20).webp"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Diwali_Photo_Frames/landscape/frame_ (18).webp"
     ],
   "Mahavir_Jayanti":[
     
