@@ -211,7 +211,7 @@
      
     ],
   "Ghudi_Padwa":[
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi1.png",
+      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-2.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-3.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-4.webp",
@@ -221,10 +221,14 @@
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-8.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-9.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-10.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi6.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-14.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-15.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-17.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/Indianframe/main/Ugadi_GhudiPadwaFram/land/fram-18.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi1.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi7.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi9.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi10.png"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi6.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Ghudi_Padwa/landscape/gudi9.png"
       
     ],
   "Dussera":[
